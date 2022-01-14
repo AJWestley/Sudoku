@@ -43,7 +43,7 @@ public class Sudoku extends Game {
 		music.setVolume(musicVolume);
 		music.play();
 
-		nc = true;
+		nc = false;
 
 		gameTimer = new Timer();
 
